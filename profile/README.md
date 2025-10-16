@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="2966" height="2954" alt="Group 44" src="https://github.com/user-attachments/assets/9bd608af-0b04-4461-9e92-935205d67f99" />
+  <img width="296" height="295" alt="Group 44" src="https://github.com/user-attachments/assets/9bd608af-0b04-4461-9e92-935205d67f99" />
 </p>
 
 # ⚙️ PenEngineering
