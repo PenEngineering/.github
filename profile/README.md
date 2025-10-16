@@ -1,4 +1,4 @@
----<p align="center">
+<p align="center">
   <img width="2966" height="2954" alt="Group 44" src="https://github.com/user-attachments/assets/9bd608af-0b04-4461-9e92-935205d67f99" />
 </p>
 
@@ -7,7 +7,7 @@
 
 > Building commercial-grade products while championing open-source development and community empowerment.
 
----
+
 
 ## 🌍 About Us
 **Founded in October 2024**, PenEngineering is at the forefront of **IoT and hardware innovation**.  
