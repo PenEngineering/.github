@@ -4,7 +4,7 @@
 
 # ⚙️ PenEngineering
 ### Pioneering the Future of IoT & Hardware
-![PenEngineering Banner](https://github.com/user-attachments/assets/da69ab50-55fb-4ac2-a338-3316867830fd)
+
 > Building commercial-grade products while championing open-source development and community empowerment.
 
 ---
