@@ -1,53 +1,87 @@
-# 🧠 PenEngineering
+---<p align="center">
+  <img src="https://pen.engineering/assets/logo.svg" width="120" alt="PenEngineering Logo">
+</p>
 
-> Launching and leading the **TTN Chișinău Community** | Building the future of open hardware and intelligent edge systems.
-
----
-
-## 🌐 About Us
-**PenEngineering** is a technology company pioneering at the intersection of hardware, networking, and intelligent systems.
-
-We design **portable platforms** and **IoT operating systems** that empower innovation in diagnostics, debugging, and decentralized networks.
-
-🔗 Website: [pen.engineering](https://pen.engineering)
+# ⚙️ PenEngineering
+### Pioneering the Future of IoT & Hardware
+![PenEngineering Banner](https://github.com/user-attachments/assets/da69ab50-55fb-4ac2-a338-3316867830fd)
+> Building commercial-grade products while championing open-source development and community empowerment.
 
 ---
 
-## 🧩 Our Flagship Projects
+## 🌍 About Us
+**Founded in October 2024**, PenEngineering is at the forefront of **IoT and hardware innovation**.  
+We build **commercial-grade platforms** and **open-source tools** that empower developers, makers, and enterprises to create the next generation of connected systems.
 
-### [AkiraOS](https://github.com/ArturR0k3r/AkiraOS)
-**Akira** is a portable platform for diagnostics, debugging, and decentralized networking — built for resilient, intelligent IoT systems.
-
-### [PikaDevBoard](https://github.com/ArturR0k3r/PikaDevBoard)
-**Pika** is a modular development board designed for rapid prototyping, performance, and versatility in embedded systems.
-
-### [KeyaSoftbox](https://github.com/ArturR0k3r/KeyaSoftbox)
-**Keya** provides a robust software layer for managing distributed IoT devices — secure, efficient, and scalable.
+🔗 [pen.engineering](https://pen.engineering)
 
 ---
 
-## 🌍 Our Mission
-We’re driving **The Things Network (TTN) Chișinău community**, fostering open collaboration and IoT innovation in Moldova and beyond.
+## 🚀 Our Journey
 
-> “Engineering intelligent, secure, and quantum-ready systems for the interoperable edge.”
-
----
-
-## 🛠️ Core Focus
-- Embedded Systems & IoT Hardware  
-- Secure Edge Computing  
-- Decentralized Networking  
-- Open Source Collaboration  
+| Year | Milestone |
+|------|------------|
+| **2024** | **Founded** — with a vision to build commercial-grade IoT products and empower the maker community through open-source innovation. |
+| **2025** | **PenRnD Lab & TTN Chișinău** launched. Released **Akira Console**, our first open-source project. |
+| **2026** | **First Product Launch** — *KeyaPad, Aerocore,* and *IoT-Verse* — bringing professional-grade hardware to creators and enterprises. |
 
 ---
 
-## 💡 Highlight
-**IoT-Verse — The Secure, Intelligent, and Quantum-Ready OS for the Interoperable Edge**
+## 🧠 Our Core Values
 
-Bridging devices, networks, and intelligence with a next-generation IoT operating system.
+| Value | Description |
+|--------|-------------|
+| 💡 **Innovation** | We constantly push the boundaries of what's possible in IoT and hardware engineering. |
+| 🧩 **Open Source** | We share knowledge freely and empower makers through open-source projects. |
+| 🤝 **Community** | We build and support communities like **TTN Chișinău** and **PenRnD Lab** for collaborative innovation. |
+| 🏗 **Quality** | We deliver **commercial-grade** products that meet the highest engineering standards. |
+
+---
+
+## 🔬 Our Ecosystem
+
+### **PenRnD Lab**
+R&D hub for cutting-edge IoT and embedded systems innovation.  
+Empowering experimentation, collaboration, and discovery.
+
+### **TTN Chișinău**
+Official **The Things Network** community hub for **LoRaWAN** innovation in Moldova.
+
+### **IoT-Verse**
+> The Secure, Intelligent, and Quantum-Ready OS for the Interoperable Edge.  
+A next-generation IoT operating system for secure, scalable, and intelligent devices.
+
+---
+
+## 🧩 Featured Open Source Projects
+
+| Project | Description |
+|----------|-------------|
+| [**AkiraOS**](https://github.com/ArturR0k3r/AkiraOS) | Portable platform for diagnostics, debugging, and decentralized networking. |
+| [**PikaDevBoard**](https://github.com/ArturR0k3r/PikaDevBoard) | Modular development board for rapid prototyping and embedded experimentation. |
+| [**KeyaSoftbox**](https://github.com/ArturR0k3r/KeyaSoftbox) | Software suite for secure and efficient IoT device management. |
+
+> 🛠 **4+ open-source projects** — empowering makers, students, and hobbyists worldwide.
+
+---
+
+## 💬 Community & Support
+
+| Initiative | Focus |
+|-------------|--------|
+| 🌐 **TTN Chișinău** | LoRaWAN community innovation & open networking |
+| 🧪 **PenRnD Lab** | Research and development for next-gen IoT |
+| ❤️ **Maker Support** | 100% free documentation, tutorials, and community engagement |
+
+---
+
+## 🌟 Let’s Build Something Amazing Together
+Whether you need a **commercial product** or want to **collaborate on open-source projects**, we’re here to bring your vision to life.
+
+👉 [**Start a Project**](https://pen.engineering)  
 
 ---
 
 <p align="center">
-  <img src="https://pen.engineering/assets/logo.svg" width="120" alt="PenEngineering logo">
+  <sub>© 2025 PenEngineering — Building the Future of IoT & Hardware</sub>
 </p>
